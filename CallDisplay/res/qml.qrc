@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/MainDevelop.qml</file>
+        <file>qml/Loading.qml</file>
+        <file>qml/WaitRetry.qml</file>
+        <file>qml/Configure.qml</file>
+    </qresource>
+</RCC>

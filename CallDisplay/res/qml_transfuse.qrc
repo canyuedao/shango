@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/transfuse/Main.qml</file>
+        <file>qml/transfuse/MainBase.qml</file>
+        <file>qml/transfuse/BottomView.qml</file>
+        <file>qml/transfuse/LeftPopView.qml</file>
+        <file>qml/transfuse/LeftInfusionView.qml</file>
+        <file>qml/transfuse/RightMainView.qml</file>
+        <file>qml/transfuse/RightModelView.qml</file>
+        <file>qml/transfuse/RightBottomView.qml</file>
+        <file>qml/transfuse/LeftDoctorView.qml</file>
+        <file>qml/transfuse/CallQueue.qml</file>
+        <file>qml/transfuse/LeftDropSpeedTest.qml</file>
+    </qresource>
+</RCC>

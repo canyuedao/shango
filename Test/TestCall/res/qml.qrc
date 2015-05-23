@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MainForm.qml</file>
+        <file>fonts/FZLTCHK.TTF</file>
+        <file>qml/MainFormTop.qml</file>
+        <file>qml/MainFormBottom.qml</file>
+        <file>qml/MainFormLeft.qml</file>
+        <file>qml/MainFormCallRow.qml</file>
+        <file>qml/MainFormRow.qml</file>
+        <file>qml/MainFormRight.qml</file>
+    </qresource>
+</RCC>

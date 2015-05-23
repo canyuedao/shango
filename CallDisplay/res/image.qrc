@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/leftTitle.png</file>
+        <file>image/leftTitleBottom.png</file>
+        <file>image/rightBottom.png</file>
+        <file>image/rightModel.png</file>
+        <file>image/rightTitle1.png</file>
+        <file>image/rightTitle2.png</file>
+        <file>image/doctor1.png</file>
+        <file>image/doctor2.png</file>
+        <file>image/doctorShade.png</file>
+        <file>image/popImg/popTitle.png</file>
+        <file>image/popImg/bottomShade.png</file>
+        <file>image/popImg/doctor.png</file>
+        <file>image/popImg/pop.png</file>
+        <file>image/popImg/shade.png</file>
+        <file>image/popImg/popState.png</file>
+    </qresource>
+</RCC>

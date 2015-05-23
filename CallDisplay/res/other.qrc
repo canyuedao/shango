@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>other/FZLTCHK.TTF</file>
+    </qresource>
+</RCC>

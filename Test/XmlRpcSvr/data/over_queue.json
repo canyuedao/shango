@@ -1,0 +1,18 @@
+{
+    "info":
+        [{"name":"小王",
+            "procedure":"输液"},
+         {"name":"小张",
+            "procedure":"过号"},
+         {"name":"小吴",
+            "procedure":"输液"},
+         {"name":"小可",
+            "procedure":"过号"},
+         {"name":"晓晓",
+            "procedure":"输液"},
+         {"name":"小爱",
+            "procedure":"过号"}
+        ]
+
+
+}

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/login.xml</file>
+        <file>data/config.json</file>
+        <file>data/ad.xml</file>
+        <file>data/drop_user.xml</file>
+        <file>data/expire_queue.xml</file>
+        <file>data/user_info.xml</file>
+        <file>data/wait_queue.xml</file>
+        <file>data/over_queue.json</file>
+    </qresource>
+</RCC>
